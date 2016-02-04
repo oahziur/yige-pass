@@ -1,0 +1,9 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- Hclip-3.0.0.3
+- pbkdf-1.1.1.1
+- text-1.2.2.0
+resolver: lts-5.1
